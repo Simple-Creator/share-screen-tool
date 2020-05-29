@@ -27,6 +27,7 @@
 >
 >> screen_server_receiver.py 服务端：与接收端交互
 >
+>> clean_program.py 服务端：离线用户内存清理，垃圾回收
 
 
 四、环境依赖
